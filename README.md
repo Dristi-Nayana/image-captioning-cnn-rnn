@@ -62,8 +62,8 @@ python src/generate_caption.py
 
 Due to size limitations, model and features are hosted externally:
 
-🔗 Model (best_model.h5): [ADD_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1xL4ZDDvlgQIg1EliaDINmc8lo0Lgv1yM/view?usp=sharing)
-🔗 Features (features.pkl): [ADD_GOOGLE_DRIVE_LINK ](https://drive.google.com/file/d/1MXinTCh7naSOInGsQkepnZWQKdzeCKeq/view?usp=sharing)
+🔗 Model (best_model.h5): [best_model](https://drive.google.com/file/d/1xL4ZDDvlgQIg1EliaDINmc8lo0Lgv1yM/view?usp=sharing)
+🔗 Features (features.pkl): [features ](https://drive.google.com/file/d/1MXinTCh7naSOInGsQkepnZWQKdzeCKeq/view?usp=sharing)
 
 ## 📊 Applications
 - Assistive technology for visually impaired individuals
